@@ -1,0 +1,216 @@
+@media screen and (max-width : 1024px) {
+/* CSS CODE HERE FOR TABLETS ---*/
+.click {
+    float: left;
+    width: 31%;
+    margin-left: 10px;
+}
+.logo {
+	margin-right: 658px;
+    margin: 0px -571px;
+}
+#buttona {
+    margin-right: -337px;
+}
+#daplong {
+    margin-right: -332px;
+    width: 182px;
+}
+
+@media screen and (max-width : 768px) {
+/* CSS CODE HERE FOR SMALL TABLETS ---*/
+.click {
+    float: left;
+    width: 44%;
+    margin-left: 10px;
+}
+#daplong {
+    margin-right: -201px;
+    width: 182px;
+}
+.logo {
+    margin-right: 658px;
+    margin: 0px -728px;
+}
+#logo {
+    margin-right: 1278px;
+    float: right;
+    width: 198px;
+    height: 100px;
+    padding-right: 0px;
+    margin-right: 1277px;
+	margin-right: 1271px;
+}
+#buttona {
+    margin-right: -178px;
+}
+}
+
+@media screen and (max-width : 640px) {
+/* CSS CODE HERE FOR IPHONE ---*/
+
+.click {
+    float: left;
+    width: 43%;
+    margin-left: 10px;
+}
+.ads1-728x90 {
+    display: none;
+}
+#ads2-300x250{
+    display: block;
+    width: 300px;
+    height: 250px;
+    margin: 2px auto;
+    background: #dadcde;
+
+}
+#place728x90 {
+    display: none;
+}
+#logo {
+    margin-right: 1140px;
+}
+}
+
+@media screen and (max-width : 480px) {
+/* CSS CODE HERE FOR SMARTPHONES ---*/
+
+.logo {
+    float: none;
+    margin: auto;
+}
+.click {
+    float: left;
+    width: 75%;
+    margin-left: 10px;
+}
+.ads1-728x90 {
+    display: none;
+}
+#ads2-300x250{
+    display: block; 
+    width: 300px;
+    height: 250px;
+    margin: 2px auto;
+    background: #dadcde;
+}
+#place728x90 {
+    display: none;
+}
+.top1 li {
+    float: right;
+    line-height: 178px;
+    font-size: 16px;
+    padding: 0 0px;
+    margin-top: -114px;
+}
+#daplong {
+    margin-right: -132px;
+    width: 182px;
+    margin: -93px -126px;
+    padding-bottom: 0px;
+    padding: 0px;
+    padding-top: 0px;
+    float: right;
+}
+#logo {
+    margin-right: 184px;
+}
+#buttona {
+    margin-right: -122px;
+    margin-top: -96px;
+    float: right;
+}
+}
+
+@media screen and (max-width : 320px) {
+/* CSS CODE HERE FOR SMALL MOBILES ---*/
+.top {
+/*   width: 100%;///
+    background: #0a3960;
+    height: 200px;
+    border-bottom: 2px solid #ef0000;
+    border-top: 2px solid #f30000;*/
+
+}
+.logo {
+    float: none;
+    margin: auto;
+}
+.click {
+    float: left;
+    width: 83%;
+    margin-left: 10px;
+}
+.ads1-728x90 {
+    display: none;
+}
+
+#ads2-300x250{
+    display: block;
+    width: 300px;
+    height: 250px;
+    margin: 2px auto;
+    background: #dadcde;
+}
+#place728x90 {
+    display: none;
+}
+.footer {
+    width: 100%;
+    height: 97px;
+    background: #333;
+    border-bottom: 2px solid red;
+    border-top: 2px solid red;
+    color: white;
+    font-size: 15px;
+    text-align: center;
+}
+#logo {
+    margin-right: 121px;
+    padding-left: 0;
+    padding-right: 0;
+}
+#buttona {
+    margin-right: -43px;
+    margin-top: -96px;
+    float: right;
+    padding-right: 1px;
+}
+#daplong {
+    margin-right: -148px;
+    width: 184px;
+    margin: -93px -46px;
+    padding-bottom: 0px;
+    padding: 0px;
+    padding-top: 0px;
+    float: right;
+}
+}
+
+.top {
+    width: 100%;
+    background: #0a3960;
+    height: 59px;
+    border-bottom: 2px solid #0f5188;
+    border-top: 2px solid #0f5188;
+    padding-right: 16px;
+    margin-right: -8px;
+    margin-top: -8px;
+}
+.logo{
+    float: right;
+    width: 267px;
+    height: 6px;
+    padding-right: 10px;
+    padding-left: 10px
+}
+#logo{
+    float: right;
+    width: 280px;
+    height: 100px;
+    padding-right: 0px;
+    padding-left: 0px;
+	margin-right: 1277px;
+}
